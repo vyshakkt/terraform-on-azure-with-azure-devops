@@ -4,7 +4,7 @@
   "tier": "Free"
  },
  "properties": {
-  "displayName": "Allowed locations",
+  "displayName": "Tesing Allowed locations",
   "policyDefinitionId": "/subscriptions/fd979753-7371-443f-a1e6-d00111d9336a/providers/Microsoft.Authorization/policyDefinitions/1d1acae0-b99d-4772-80af-740a9ec01511",
   "scope": "/subscriptions/fd979753-7371-443f-a1e6-d00111d9336a",
   "notScopes": [],
